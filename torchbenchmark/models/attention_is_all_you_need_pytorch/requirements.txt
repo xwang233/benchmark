@@ -3,3 +3,4 @@ tqdm
 iopath
 numpy
 spacy
+markupsafe==2.0.1
